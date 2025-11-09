@@ -1,6 +1,10 @@
 # Retail-Shop-Case-Study
 ## Goal
-Develop a database to analyze and visualize retail shopping data. Specifically provide insights to improve planning, staffing, and promotions.
+Develop a database to analyze and visualize retail shopping data. Specifically:
+- link sales data with weather patterns and survey demographics
+- Identify correlations: temperature vs. sales, rainfall effects, weekend lift.
+- Compare shop performance and seasonal patterns.
+- Build foundation for dashboards and predictive modeling.
 ## Research questions / problems
 - Daily sales fluctuate and leadership lacks clarity on why. Understanding how the weather and customer demographics impact performance will provide insights to improve planning, staffing, and promotions.
 ## Summary 
