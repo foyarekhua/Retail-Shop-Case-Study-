@@ -19,7 +19,7 @@ Daily sales fluctuate and leadership lacks clarity on why. Understanding how the
 ## Recommendations / answer to research questions
 Sales are shaped by weather, location, and customer mix. To maximize growth, managers must adapt operations to seasonal shifts and customer patterns.
 Staff & stock up on hot summer days
-• Run rainy-day discounts to keep traffic steady
-• Expand Miami in peak tourism months
-• Build loyalty in Jacksonville
-• Target families on weekends and singles on weekdays
+- Run rainy-day discounts to keep traffic steady
+- Expand Miami in peak tourism months
+- Build loyalty in Jacksonville
+- Target families on weekends and singles on weekdays
