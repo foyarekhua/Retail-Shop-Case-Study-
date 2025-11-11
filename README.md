@@ -11,7 +11,7 @@ Daily sales fluctuate and leadership lacks clarity on why. Understanding how the
 2. Which shop performs best, and why?
 3. Who are our customers — families vs singles, male vs female — and how does this change over time?
 4. Are there predictable seasonal patterns in sales?
-## Summary 
+## Summary (check final report in the file retail_data_analysis.pdf)
 1. Gather and clean daily sales, weather, and survey data. (Build a Database)
 2. Join datasets on date for unified analysis.
 3. Explore descriptive statistics and visualizations. (Analyze Data)
